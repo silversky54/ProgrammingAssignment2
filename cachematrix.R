@@ -1,5 +1,5 @@
 ##Code by: Erick Gonzalez
-##last Change: 10/26/2014
+##last Change: 04/15/2017
 ##NOTE: Programming Assignment 2 
 
 ## cachematrix.R has two functions makeCacheMatrix and cachesolve,
